@@ -5,7 +5,6 @@ use App\Http\Controllers\BlogController;
 use App\Http\Controllers\DashboradController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\AuthorController;
-use App\Http\Controllers\customerController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\RoleController;
 
